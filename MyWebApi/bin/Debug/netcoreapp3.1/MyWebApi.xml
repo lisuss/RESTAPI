@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:MyWebApi.Controllers.V1.TagsController.GetAll">
+            <summary>
+             Returns all the tags in the system
+            </summary>
+            <response code="200">Returns all the tags in the system</response>
+        </member>
+        <member name="M:MyWebApi.Controllers.V1.TagsController.Create(MyWebApi.Contracts.V1.Requests.CreateTagRequest)">
+            <summary>
+             Creates tag in the system
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <response code="201">Creates tag in system</response>
+             <response code="400">Unable to create the tag due to validation error</response>
+        </member>
+    </members>
+</doc>
