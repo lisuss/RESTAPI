@@ -1,0 +1,9 @@
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\bin\Debug\netstandard2.0\MyWebApi.Contracts.deps.json
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\bin\Debug\netstandard2.0\MyWebApi.Contracts.dll
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\obj\Debug\netstandard2.0\MyWebApi.Contracts.csprojAssemblyReference.cache
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\obj\Debug\netstandard2.0\MyWebApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\obj\Debug\netstandard2.0\MyWebApi.Contracts.AssemblyInfo.cs
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\bin\Debug\netstandard2.0\MyWebApi.Contracts.pdb
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\obj\Debug\netstandard2.0\MyWebApi.Contracts.dll
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\obj\Debug\netstandard2.0\MyWebApi.Contracts.pdb
+C:\Users\lisus\source\repos\MyWebApi\MyWebApi.Contracts\obj\Debug\netstandard2.0\MyWebApi.Contracts.csproj.CoreCompileInputs.cache
